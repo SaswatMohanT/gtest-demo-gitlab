@@ -1,6 +1,7 @@
 [submodule "external/googletest"]
 	path = external/googletest
 	url = https://github.com/google/googletest.git
-[submodule "external_src/automomous_driving_src"]
-	path = src/self-driving-ish_computer_vision_system
+
+[submodule "external_src/self-driving-ish_computer_vision_system"]
+	path = external_src/self-driving-ish_computer_vision_system
 	url = https://github.com/SaswatMohanT/self-driving-ish_computer_vision_system.git
